@@ -1,4 +1,4 @@
-git clone https://github.com/raymondmiracle/Toolchain ~/Toolchain
+git clone https://github.com/raymondmiracle/Toolchain /Toolchain
 git clone https://github.com/raymondmiracle/anykernel
 export ARCH=arm64
 export CROSS_COMPILE=~/Toolchain/bin/aarch64-linux-android-
